@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KR2efsZ6GI057RFyArXplRZrK23G/WDX/9NQNaSnKHCZWRnZItogajka9b70otpL5Qm72XMogvVj4llbMu9Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tjcar\\source\\repos\\Visual Studio Card Game\\Visual Studio Card Game\\Visual Studio Card Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tjcar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tjcar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tjcar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\tjcar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

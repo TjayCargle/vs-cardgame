@@ -1,0 +1,15 @@
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Snap.exe
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Snap.deps.json
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Snap.runtimeconfig.json
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Snap.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Snap.pdb
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.csproj.AssemblyReference.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.AssemblyInfoInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.AssemblyInfo.cs
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.csproj.CoreCompileInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\refint\TJay Cargle CLI Snap.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.pdb
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Snap.genruntimeconfig.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\ref\TJay Cargle CLI Snap.dll

@@ -1,0 +1,30 @@
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\Visual Studio Card Game.exe
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\Visual Studio Card Game.deps.json
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\Visual Studio Card Game.runtimeconfig.json
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\Visual Studio Card Game.pdb
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.csproj.AssemblyReference.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.AssemblyInfoInputs.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.AssemblyInfo.cs
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.csproj.CoreCompileInputs.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\refint\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.pdb
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\Visual Studio Card Game.genruntimeconfig.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\ref\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\bin\Debug\net6.0\Visual Studio Card Game.exe
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\bin\Debug\net6.0\Visual Studio Card Game.deps.json
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\bin\Debug\net6.0\Visual Studio Card Game.runtimeconfig.json
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\bin\Debug\net6.0\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\bin\Debug\net6.0\Visual Studio Card Game.pdb
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.csproj.AssemblyReference.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.AssemblyInfoInputs.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.AssemblyInfo.cs
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.csproj.CoreCompileInputs.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\refint\Visual Studio Card Game.dll
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.pdb
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\Visual Studio Card Game.genruntimeconfig.cache
+C:\Users\tjcar\source\repos\Visual Studio Card Game\Visual Studio Card Game\obj\Debug\net6.0\ref\Visual Studio Card Game.dll

@@ -1,0 +1,30 @@
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Card Game.exe
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Card Game.deps.json
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Card Game.runtimeconfig.json
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\bin\Debug\net6.0\TJay Cargle CLI Card Game.pdb
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.csproj.AssemblyReference.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.AssemblyInfoInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.AssemblyInfo.cs
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.csproj.CoreCompileInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\refint\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.pdb
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\TJay Cargle CLI Card Game.genruntimeconfig.cache
+C:\Users\tjcar\source\repos\TJay Cargle CLI Snap\TJay Cargle CLI Snap\obj\Debug\net6.0\ref\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\TJay Cargle CLI Card Game.exe
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\TJay Cargle CLI Card Game.deps.json
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\TJay Cargle CLI Card Game.runtimeconfig.json
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\bin\Debug\net6.0\TJay Cargle CLI Card Game.pdb
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.csproj.AssemblyReference.cache
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.AssemblyInfoInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.AssemblyInfo.cs
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.csproj.CoreCompileInputs.cache
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\refint\TJay Cargle CLI Card Game.dll
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.pdb
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\TJay Cargle CLI Card Game.genruntimeconfig.cache
+C:\Users\tjcar\source\repos\TJay Cargle Card Game\TJay Cargle CLI Card Game\obj\Debug\net6.0\ref\TJay Cargle CLI Card Game.dll
